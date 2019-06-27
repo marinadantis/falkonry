@@ -1,0 +1,15 @@
+{
+  "api_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE4NzUzNDMxNzgsICJlbWFpbCIgOiAibWFyaW5hLmFxdWFAeW1haWwuY29tIiwgIm5hbWUiIDogIm1hcmluYS5hcXVhQHltYWlsLmNvbSIsICJzZXNzaW9uIiA6ICI1ODY4MzY3MjU0MzgyMTAwNDgiIH0.oP9dWLBbhAJVwVPqGSUHZdQkRTuS6sY4PobWSsi_-k0",
+  "api_url_base": "https://dev.falkonry.ai:30076/api/1.1/",
+  "account_id": "Qqa5uqp4zvq0qv",
+
+  "headers": {
+    "Content-Type": "application/json"
+  },
+
+  "payload": {
+    "isBatch": false
+  },
+
+  "prefix": "marinads"
+}
